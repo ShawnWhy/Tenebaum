@@ -18,5 +18,30 @@ body
     outline: none;
 }
 
+.menue{
+    position:absolute;
+    z-index: 2;
+    left:2%;
+    margin-top:2%;
+    border:white 4px solid;
+    border-radius:3px;
+    text-align: center;
+
+}
+
+.button{
+
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:10px;
+    padding:5px;
+    border-radius:3px
+
+}
+
+.button:hover{
+    background-color: white;
+    color:black
+}
 
 /*# sourceMappingURL=main.css.map*/
